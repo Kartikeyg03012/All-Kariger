@@ -25,14 +25,10 @@ _**Language**_:-
 
 
 
-**Others**--> Eclipse, Git, JUnit For Testing
+**Others**--> Eclipse, Git.
 
 
 # How To Import And Run:-
-Download all the files And Import on Eclipse IDE and Run on Apache Tomcat  Server.
-
-
-`OR `
 
 You can Download only Mail-wale.war file and directly import on Eclipse IDE and Run on Apache Tomcat Server. (Recommended)
 
