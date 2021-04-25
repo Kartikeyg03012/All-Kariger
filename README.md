@@ -1,10 +1,12 @@
 # Project Name: All-Kariger
 
 
-# Role:-
-1. Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
-2. Evaluate or recommend server hardware or software.
-3. Develop databases that support web applications and web sites.
+# Role:- 
+1. A plateform that provide you to all the services at one place like:- Urbanclap, housejoy Etc.
+2. Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools.
+3. Evaluate or recommend server hardware or software.
+4. Develop databases that support web applications and web sites.
+
 
 # I work on the project as a Full Stack Java Developer.
 _**Language**_:-
