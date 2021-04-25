@@ -6,7 +6,7 @@
 2. Evaluate or recommend server hardware or software.
 3. Develop databases that support web applications and web sites.
 
-# Here, I am working on many projects on both J2SE and J2EE for Web development.
+# I work on the project as a Full Stack Java Developer.
 _**Language**_:-
 
 
@@ -30,6 +30,6 @@ _**Language**_:-
 
 # How To Import And Run:-
 
-You can Download only Mail-wale.war file and directly import on Eclipse IDE and Run on Apache Tomcat Server. (Recommended)
+You can Download only All kariger.war file and directly import on Eclipse IDE and Run on Apache Tomcat Server. (Recommended)
 
 Note:- Here, I use MySQL Database so make sure all the properties, username, password for database connectivity is as same as your database. 
