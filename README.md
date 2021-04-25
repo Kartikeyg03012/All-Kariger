@@ -2,7 +2,7 @@
 
 
 # Role:- 
-1. A plateform that provide you to all the services at one place like:- Urbanclap, housejoy Etc.
+1. A platform that provides you with all the services at one place like:- Urbanclap, Housejoy Etc.
 2. Design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools.
 3. Evaluate or recommend server hardware or software.
 4. Develop databases that support web applications and web sites.
